@@ -2,6 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+
 hero:
   name: "编程之路"
   text: "学习编程，创造未来"
