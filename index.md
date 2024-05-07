@@ -6,14 +6,16 @@ layout: home
 hero:
   name: "编程之路"
   text: "学习编程，创造未来"
-  tagline: My great project tagline
+  tagline: "从零开始，逐步学习Scratch和C++，掌握编程的基础知识和算法思维，为未来的编程之路铺平道路。"
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+    - text: "开始学习"
+      link: "/guide/week-0.md"
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: "AI学习助手"
+      link: "https://cs50.ai/"
+  image:
+    src: /cpp.svg
+    alt: C Plus Plus
 
 features:
   - title: 编程之路
@@ -25,3 +27,24 @@ features:
 
 ---
 
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5c8dbc 30%, #1a4674);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #5c8dbc 50%, #1a4674 50%);
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+</style>
