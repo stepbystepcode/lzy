@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "编程之路",
   description: "学习编程，创造未来",
+  head: [['link', { rel: 'icon', href: '/cpp.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
