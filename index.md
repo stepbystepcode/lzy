@@ -9,7 +9,7 @@ hero:
   tagline: "从零开始，逐步学习Scratch和C++，掌握编程的基础知识和算法思维，为未来的编程之路铺平道路。"
   actions:
     - text: "开始学习"
-      link: "/guide/week-0.md"
+      link: "/guide/week-0-2.md"
     - theme: alt
       text: "AI学习助手"
       link: "https://cs50.ai/"
@@ -27,8 +27,7 @@ features:
 
 ---
 
-<style>
-:root {
+<style>:root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5c8dbc 30%, #1a4674);
 

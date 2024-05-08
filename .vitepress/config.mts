@@ -17,18 +17,16 @@ export default defineConfig({
         link: '/environment',
       },
       {
+        text: '基本功',
+        link: '/basic',
+      },
+      {
         text: '教学大纲',
         items: [
-          { text: 'week 0', link: '/guide/week-0.md' },
-          { text: 'week 1', link: '/guide/week-1.md' },
-          { text: 'week 2', link: '/guide/week-2.md' },
-          { text: 'week 3', link: '/guide/week-3.md' },
-          { text: 'week 4', link: '/guide/week-4.md' },
-          { text: 'week 5', link: '/guide/week-5.md' },
-          { text: 'week 6', link: '/guide/week-6.md' },
-          { text: 'week 7', link: '/guide/week-7.md' },
-          { text: 'week 8', link: '/guide/week-8.md' },
-          { text: 'week 9', link: '/guide/week-9.md' },
+          { text: 'week 0-2', link: '/guide/week-0-2.md' },
+          { text: 'week 3-5', link: '/guide/week-3-5.md' },
+          { text: 'week 5-7', link: '/guide/week-5-7.md' },
+          { text: 'week 7-9', link: '/guide/week-7-9.md' },
         ]
       }
     ],
