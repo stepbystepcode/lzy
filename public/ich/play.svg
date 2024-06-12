@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="44" viewBox="0 0 39 44">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #e5bb81;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="三角形_1" data-name="三角形 1" class="cls-1" d="M1588,1514l-37,21v-42Z" transform="translate(-1550 -1492)"/>
+</svg>
